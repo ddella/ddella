@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in AWS, Docker, Python
-- 🌱 I’m currently learning AWS and Docker
-- 💞️ I’m looking to collaborate on anything related to AWS and Docker
+- 👀 I’m interested in AWS, Docker, K8s, Python
+- 🌱 I’m currently learning AWS, Docker, Docker Swarm and K8s
+- 💞️ I’m looking to collaborate on anything related to Cloud and Docker
 - 📫 How to reach me: daniel@isociel.com
 
 <!---
